@@ -7,7 +7,7 @@ import time
 import os
 import csv
 
-"The Main file is the only file that need to run"
+"This Mainfile is the only one that need to run"
 
 "The parameters should be adjusted according to operation model: a)DR or b)REC"
 "————————————————————————————————————————————"
