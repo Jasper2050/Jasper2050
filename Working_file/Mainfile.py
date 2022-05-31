@@ -53,10 +53,8 @@ for i in range(n_coustomer):
         writer = csv.writer(file)
         writer.writerows(consumer_profile(in_file_name,pv,parameters_consumption))
 
-#long process here
+#stop for 10 seconds
 time.sleep(10)
 done = True
 
 "Billing Customers to be added"
-
-print("Please Answer with Yes or No")
